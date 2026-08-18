@@ -21,4 +21,6 @@ I am a passionate IT student at Xavier University Ateneo de Cagayan, driven by a
 - 🌟 Completed Git & GitHub Setup 2024
 - 🔭 I’m currently working on my final API project.
 
+Fun Fact: I used to not watch anime because i thought less of it but now i enjoy and watch some of it thanks to my brother
+
 Thanks for stopping by!
